@@ -19,4 +19,4 @@ This vulnerability allows a malicious actor to craft input to the binary in such
 
 To fix this vulnerability the input buffer length was checked with the call to strncpy.  strncpy takes in a length parameter, therefore preventing the overflow.
 
-[stack version](https://github.com/jonobrien/swen331-curriculum-contributions/blob/master/stack.py)
+[stack version](https://github.com/jonobrien/swen331-curriculum-contributions/tree/master/stack_buffer_overflow)

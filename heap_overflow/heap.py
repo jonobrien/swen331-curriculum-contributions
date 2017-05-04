@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# usage: ./heap <<< `./heap.py`
+# usage: ./heap `./heap.py`
 
 # we find the address of winner() with objdump
 #
